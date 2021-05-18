@@ -1,2 +1,2 @@
 # jx-test
-.tag test
+tag test
